@@ -1,6 +1,72 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+"""
+[7:34 PM, 10/3/2021] Sachin Dabas: Write a python script to pull some required information from a web page
+
+2. Clean the pulled informationand store it in a csv file
+
+3. The python script should take url as input and output the csv file with pulled, cleaned required information.
+
+
+
+
+
+Restaurant Web page url: https://www.yelp.ca/biz/pai-northern-thai-kitchen-toronto-5?osq=Restaurants
+
+
+
+It lists information about the restaurant.
+
+
+
+Information required from the page: 
+
+Name of the restaurant
+
+How many reviews are there in total
+
+Reviews
+
+  - Review_text
+
+  - Reviewer
+
+  - Rating
+[7:39 PM, 10/3/2021] Sachin Dabas: 1. Write a python script to pull some required information from a web page
+
+2. Clean the pulled informationand store it in a csv file
+
+3. The python script should take url as input and output the csv file with pulled, cleaned required information.
+
+
+
+
+
+Restaurant Web page url: https://www.yelp.ca/biz/pai-northern-thai-kitchen-toronto-5?osq=Restaurants
+
+
+
+It lists information about the restaurant.
+
+
+
+Information required from the page: 
+
+Name of the restaurant
+
+How many reviews are there in total
+
+Reviews
+
+  - Review_text
+
+  - Reviewer
+
+  - Rating
+  
+  """ 
+
 # In[13]:
 
 
